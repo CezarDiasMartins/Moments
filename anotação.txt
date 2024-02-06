@@ -1,0 +1,2 @@
+→Pra rodar a api: node ace serve
+→Pra rodar o projeto: ng serve
